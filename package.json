@@ -1,0 +1,21 @@
+{
+  "name": "speedPlugin",
+  "version": "0.0.4",
+  "cordova": {
+    "id": "speedPlugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "ChenXinPing",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "http://210.13.199.115:8899/chenxp71/speedPlugin.git"
+  },
+  "description": ""
+}
